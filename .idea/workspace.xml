@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="466f89c7-9c46-4843-acef-f44547d91747" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="OUTPUT_DIRECTORY" value="https://github.com/ClassicalDig/Behemoth-Brawl.git" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BehemothBrawl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="151" selection-start-line="151" selection-end-line="151" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MainMenu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/setup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+              <folding>
+                <element signature="e#10#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Variables.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="114" selection-start-line="34" selection-start-column="114" selection-end-line="34" selection-end-column="114" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>character_scale</find>
+      <find>PlayerSprite</find>
+      <find>scale</find>
+      <find>player_sprite</find>
+      <find>MOVEMENT_SPEED</find>
+      <find>jumpspe</find>
+      <find>up_</find>
+      <find>physic</find>
+      <find>texture_change_distance</find>
+      <find>multi</find>
+      <find>raw_input</find>
+      <find>hammer</find>
+      <find>heal</find>
+      <find>scale=CharacterScaling</find>
+      <find>BackSparrow</find>
+      <find>self.</find>
+      <find>self,</find>
+      <find>liza</find>
+      <find>player</find>
+      <find>SCREEN_HEIGHT</find>
+      <find>main</find>
+      <find>Coin</find>
+      <find>global</find>
+      <find>self.bullet</find>
+      <find>health</find>
+      <find>bullet</find>
+      <find>EnemyBulletSpeed</find>
+      <find>goody</find>
+      <find>SCREEN_TITLE</find>
+      <find>os</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Texture_Right</replace>
+      <replace>self.player_sprite</replace>
+      <replace>Resources</replace>
+      <replace>Step</replace>
+      <replace>Movement</replace>
+      <replace>/</replace>
+      <replace>width</replace>
+      <replace>Movement_Speed</replace>
+      <replace>Jump_Speed</replace>
+      <replace>root</replace>
+      <replace>OnKeyPres</replace>
+      <replace>stand_right_textures</replace>
+      <replace>'</replace>
+      <replace>PlayerSprite</replace>
+      <replace>MOVEMENT_SPEED</replace>
+      <replace>CharacterScaling</replace>
+      <replace>player_list</replace>
+      <replace>Graphics/Black Sparrow/Walk/ Black Sparrow Walk</replace>
+      <replace>player</replace>
+      <replace>Mov</replace>
+      <replace>MovementSpeed</replace>
+      <replace>input</replace>
+      <replace>BlackSparrow.BackSparrowCharacter</replace>
+      <replace>BlackSparrow</replace>
+      <replace>self.player</replace>
+      <replace>ScreenHeight</replace>
+      <replace>EnemyBullet</replace>
+      <replace>BulletSpeed</replace>
+      <replace>ScreenTitle</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Start Screen.py" />
+        <option value="$PROJECT_DIR$/Testing stuff.py" />
+        <option value="$PROJECT_DIR$/Jack Run.py" />
+        <option value="$PROJECT_DIR$/venv/Main.py" />
+        <option value="$PROJECT_DIR$/venv/Testing stuff.py" />
+        <option value="$PROJECT_DIR$/venv/Tkinter Help.py" />
+        <option value="$PROJECT_DIR$/venv/Platformer Copy Paste ending.py" />
+        <option value="$PROJECT_DIR$/venv/Test.py" />
+        <option value="$PROJECT_DIR$/../Projects/venv/Learning Python.py" />
+        <option value="$PROJECT_DIR$/venv/Platformer Test.py" />
+        <option value="$PROJECT_DIR$/venv/03_user_control.py" />
+        <option value="$PROJECT_DIR$/venv/09_endgame.py" />
+        <option value="$PROJECT_DIR$/venv/04_add_gravity.py" />
+        <option value="$PROJECT_DIR$/venv/Platoformer.py" />
+        <option value="$PROJECT_DIR$/venv/Main_Menu.py" />
+        <option value="$PROJECT_DIR$/venv/map_Construction.py" />
+        <option value="$PROJECT_DIR$/../platform_tutorial/08_load_map.py" />
+        <option value="$PROJECT_DIR$/venv/Behemoth Brawl.py" />
+        <option value="$PROJECT_DIR$/platform_tutorial/01_open_window.py" />
+        <option value="$PROJECT_DIR$/../FlapPy-Bird-master/flappy.py" />
+        <option value="$PROJECT_DIR$/venv/Variables.py" />
+        <option value="$PROJECT_DIR$/Movement.py" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/arcade/examples/particle_fireworks.py" />
+        <option value="$PROJECT_DIR$/Behemoth Brawl.py" />
+        <option value="$PROJECT_DIR$/Main_Menu.py" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/arcade/physics_engines.py" />
+        <option value="$PROJECT_DIR$/Black Sparrow.py" />
+        <option value="$USER_HOME$/Downloads/Ultimate Pong 1.4.py" />
+        <option value="$PROJECT_DIR$/CharacterSelect.py" />
+        <option value="$PROJECT_DIR$/Test.py" />
+        <option value="$PROJECT_DIR$/BlackSparrow.py" />
+        <option value="$PROJECT_DIR$/../PixelBrawl-master/sprites.py" />
+        <option value="$USER_HOME$/Downloads/Kayzee-master/kayzee.py" />
+        <option value="$PROJECT_DIR$/venv/Lib/site-packages/arcade/examples/sprite_follow_simple_2.py" />
+        <option value="$PROJECT_DIR$/ArcadeMainMenu.py" />
+        <option value="$PROJECT_DIR$/TestMenu.py" />
+        <option value="$PROJECT_DIR$/BehemothBrawl.py" />
+        <option value="$PROJECT_DIR$/Variables.py" />
+        <option value="$PROJECT_DIR$/MainMenu.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="756" />
+    <option name="y" value="-25" />
+    <option name="width" value="700" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Behemoth Brawl 0.6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Behemoth Brawl 0.6" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Users\Dencity\Desktop\Behemoth Brawl With Arcade" />
+      <recent name="C:\Users\Caden's Laptop\Desktop\Cadens Files\Behemoth Brawl With Arcade" />
+      <recent name="C:\Users\Caden's Laptop\Desktop\Cadens Files\Behemoth Brawl With Arcade\venv" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maxwellc\Desktop\Python\Behemoth Brawl With Arcade\venv" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.MainMenu">
+    <configuration name="ArcadeMainMenu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Behemoth Brawl With Arcade" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArcadeMainMenu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BehemothBrawl (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Behemoth Brawl With Arcade" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Behemoth Brawl 0.4" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Behemoth Brawl 0.4/BehemothBrawl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BehemothBrawl" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Behemoth Brawl With Arcade" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BehemothBrawl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MainMenu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Behemoth Brawl With Arcade" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MainMenu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMenu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Behemoth Brawl With Arcade" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestMenu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ArcadeMainMenu" />
+      <item itemvalue="Python.BehemothBrawl (1)" />
+      <item itemvalue="Python.BehemothBrawl" />
+      <item itemvalue="Python.MainMenu" />
+      <item itemvalue="Python.TestMenu" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MainMenu" />
+        <item itemvalue="Python.BehemothBrawl" />
+        <item itemvalue="Python.TestMenu" />
+        <item itemvalue="Python.ArcadeMainMenu" />
+        <item itemvalue="Python.BehemothBrawl (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="466f89c7-9c46-4843-acef-f44547d91747" name="Default" comment="" />
+      <created>1553131911938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553131911938</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16353887" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4886059" weight="0.2560113" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39745402" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32917964" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5113941" side_tool="true" weight="0.2602546" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.46936655" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32917964" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24963397" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:E:/../..//C:/Users/Dencity/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/arcade/examples/sprite_properties.py" />
+    <entry file="file:E:/../..//C:/Users/Dencity/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/arcade/examples/full_screen_example.py" />
+    <entry file="file:E:/../..//E:/Users/Dencity/Desktop/FlapPy-Bird-master/bird.py" />
+    <entry file="file:E:/../..//E:/Users/Dencity/Desktop/FlapPy-Bird-master/flappy.py" />
+    <entry file="file:E:/../..//E:/Users/Dencity/Desktop/Behemoth Brawl With Arcade/Profiles.txt" />
+    <entry file="file:E:/../..//E:/Users/Dencity/Desktop/Behemoth Brawl With Arcade/BlackSparrow.py" />
+    <entry file="file:E:/../..//E:/Users/Dencity/Desktop/Behemoth Brawl With Arcade/MainMenu.py" />
+    <entry file="file:E:/../..//E:/Users/Dencity/Desktop/Behemoth Brawl With Arcade/Test.py" />
+    <entry file="file:E:/../..//E:/Users/Dencity/Desktop/Behemoth Brawl With Arcade/Variables.py" />
+    <entry file="file:E:/../..//E:/Users/Dencity/Desktop/Behemoth Brawl With Arcade/BehemothBrawl.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="1146" selection-start-line="1146" selection-end-line="1146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Ultimate Pong 1.4.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/arcade/examples/sprite_explosion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/arcade/examples/sprite_follow_simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/arcade/examples/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/arcade/examples/tetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/arcade/examples/gradients.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/arcade/examples/maze_recursive.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/arcade/examples/pymunk_2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/arcade/examples/pymunk_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/arcade/examples/pymunk_pegboard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2228">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/arcade/examples/pymunk_box_stacks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharacterSelect.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/arcade/physics_engines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1173" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/arcade/physics_engines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-236">
+          <caret line="86" column="30" lean-forward="true" selection-start-line="86" selection-start-column="30" selection-end-line="86" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/arcade/examples/radar_sweep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/arcade/examples/happy_face.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PixelBrawl-master/settings.py" />
+    <entry file="file://$PROJECT_DIR$/../PixelBrawl-master/sprites.py" />
+    <entry file="file://$PROJECT_DIR$/../PixelBrawl-master/main.py" />
+    <entry file="file://$PROJECT_DIR$/BlackSparrow.py" />
+    <entry file="file://$PROJECT_DIR$/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/arcade/examples/sprite_follow_simple_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1219">
+          <caret line="150" column="16" selection-start-line="150" selection-start-column="12" selection-end-line="150" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/arcade/examples/dual_stick_shooter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/arcade/examples/sprite_bullets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="122" column="25" selection-start-line="122" selection-start-column="25" selection-end-line="122" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PixelBrawl-master/projectiles.py" />
+    <entry file="file://$USER_HOME$/Downloads/Kayzee-master/player.py" />
+    <entry file="file://$USER_HOME$/Downloads/Kayzee-master/kayzee.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/arcade/sprite.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forest.tmx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-301" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desktop.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="1704" selection-start-line="1704" selection-end-line="1704" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Behemoth Brawl 0.4/MainMenu.py" />
+    <entry file="file://$PROJECT_DIR$/../Behemoth Brawl 0.4/BehemothBrawl.py" />
+    <entry file="file://$PROJECT_DIR$/ArcadeMainMenu.py" />
+    <entry file="file://$PROJECT_DIR$/TestMenu.py" />
+    <entry file="file://$PROJECT_DIR$/Variables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="114" selection-start-line="34" selection-start-column="114" selection-end-line="34" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BehemothBrawl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="151" selection-start-line="151" selection-end-line="151" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MainMenu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding>
+            <element signature="e#10#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

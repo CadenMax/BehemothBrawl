@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="121" height="67" tilewidth="32" tileheight="32" infinite="0" nextlayerid="24" nextobjectid="4">
+ <tileset firstgid="1" name="Behemoth Brawl Tileset" tilewidth="128" tileheight="128" tilecount="10" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="1">
+   <image width="128" height="128" source="Graphics/Tiles/Log End.png"/>
+  </tile>
+  <tile id="2">
+   <image width="128" height="128" source="Graphics/Tiles/Log Middle.png"/>
+  </tile>
+  <tile id="3">
+   <image width="128" height="128" source="Graphics/Tiles/Log Start.png"/>
+  </tile>
+  <tile id="4">
+   <image width="128" height="128" source="Graphics/Tiles/Plank End.png"/>
+  </tile>
+  <tile id="5">
+   <image width="128" height="128" source="Graphics/Tiles/Plank Middle.png"/>
+  </tile>
+  <tile id="6">
+   <image width="128" height="128" source="Graphics/Tiles/Plank Start.png"/>
+  </tile>
+  <tile id="7">
+   <image width="32" height="32" source="Graphics/Weapons/Laser Pew/Laser Pew.png"/>
+   <objectgroup draworder="index">
+    <object id="1" x="4" y="5.75" width="26" height="24.5"/>
+   </objectgroup>
+   <animation>
+    <frame tileid="8" duration="100"/>
+    <frame tileid="9" duration="100"/>
+    <frame tileid="10" duration="100"/>
+    <frame tileid="7" duration="500"/>
+   </animation>
+  </tile>
+  <tile id="8">
+   <image width="32" height="32" source="Graphics/Weapons/Laser Pew/Laser Pew2.png"/>
+  </tile>
+  <tile id="9">
+   <image width="32" height="32" source="Graphics/Weapons/Laser Pew/Laser Pew3.png"/>
+  </tile>
+  <tile id="10">
+   <image width="32" height="32" source="Graphics/Weapons/Laser Pew/Laser Pew4.png"/>
+  </tile>
+ </tileset>
+ <layer id="18" name="Platform" width="121" height="67">
+  <data encoding="base64" compression="zlib">
+   eJzt2jEKACAMA8Ci/v/N7g4WB7HC3ZYtZE4EAAAAAAAAAAAAAAAAAEAdY8k9ye1il6psBAAAAAAAAAD86vT3UCG/7uD7AQAAAAAAAADAzgSVAQBY
+  </data>
+ </layer>
+ <objectgroup id="23" name="Pew"/>
+</map>

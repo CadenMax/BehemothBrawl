@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="121" height="67" tilewidth="32" tileheight="32" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="My Tileset" tilewidth="128" tileheight="128" tilecount="3" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="128" height="128" source="Graphics/Tiles/Plank End.png"/>
+  </tile>
+  <tile id="1">
+   <image width="128" height="128" source="Graphics/Tiles/Plank Middle.png"/>
+  </tile>
+  <tile id="2">
+   <image width="128" height="128" source="Graphics/Tiles/Plank Start.png"/>
+  </tile>
+ </tileset>
+ <layer id="1" name="Platform" width="121" height="67">
+  <data encoding="base64" compression="zlib">
+   eJztxyECACAIBLBD//9nO1kSW1sCAAAAAAAAAAAAAAAAAAAAAAAAAAAAADDjtp/lrwAAAAAAAAAA/PMAJtcAJQ==
+  </data>
+ </layer>
+</map>
